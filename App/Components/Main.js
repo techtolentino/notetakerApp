@@ -25,9 +25,6 @@ var styles = StyleSheet.create({
 		flexDirection: 'column',
 		justifyContent: 'center',
 		backgroundColor: '#48BBEC'
-	},
-	mainText: {
-		color: '#000000'
 	}
 });
 
